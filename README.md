@@ -12,6 +12,7 @@ Ao longo da minha trajetória, liderei processos orientados por dados, alcançan
 ## Habilidades Técnicas 👨‍💻
 📊 Excel e Google Sheets  
 📈 Power BI  
+📈 Tableau  
 💻 SQL  
 
 
