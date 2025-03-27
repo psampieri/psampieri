@@ -16,6 +16,7 @@ Ao longo da minha trajetória, liderei processos orientados por dados, alcançan
 
 ## 📂 Portfólio de Projetos
 Aqui demonstro os projetos que desenvolvo para consolidar minhas habilidades em análise de dados, partindo da extração, transformação e carregamento (ETL) dos dados, passando pelos modelos de visualização e finalizando com a apresentação de insights acionáveis.  
+[Repositório](https://github.com/psampieri?tab=repositories)
 
 ### 🔍 Visualização de Dados:
 * Visualizações concisas e pragmáticas provenientes dos dados após seu devido tratamento.  
